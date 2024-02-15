@@ -31,6 +31,4 @@ sudo apt install python3-pip  # For Python 3
 ## Run insider test in your local env
 If you're on macOS, you just need to go main folder of the project and run `python main.py` command. The selenium browser should be open and all tests are should be passed. 
 
-I recorded a loom for you if you don't have a time to run this project in your local env, you can watch the whole test suite. Click to watch [the loom video](url).
-
 
